@@ -1,0 +1,5 @@
+package toString
+
+@interface toString {
+
+}
