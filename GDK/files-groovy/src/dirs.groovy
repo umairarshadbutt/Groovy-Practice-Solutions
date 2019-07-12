@@ -5,14 +5,14 @@ String dir = '/home/azaidi/git/groovy/GDK/files-groovy'
 //        if (file.isDirectory()){
 //                println file.name
 //        }
-
+//
 //        if (file.isHidden()){
 //                hidden<<file.name
 //        }
 //}
 //
 //println hidden
-
+//
 //new File(dir).eachDir {subFolder ->
 //        println subFolder
 //}
@@ -25,7 +25,6 @@ println sDir.directorySize()
  new File('dummy').mkdir()
 
 
- //create a bunch of directories
  new File('one/two/three').mkdirs()
 
 

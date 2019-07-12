@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adca1be3-6331-48bc-947a-ebcd2752a952" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/dirs.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/dirs.groovy" afterDir="false" />
+    <list default="true" id="de668393-5c86-49bb-8817-2577825e7e0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/groovy/producer_consumer.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/groovy/push_pop.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../files-groovy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../files-groovy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../files-groovy/src/dirs.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../files-groovy/src/dirs.groovy" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,28 +17,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dummy.txt">
+        <entry file="file://$PROJECT_DIR$/src/groovy/push_pop.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="68">
+              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dirs.groovy">
+        <entry file="file://$PROJECT_DIR$/src/groovy/producer_consumer.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/io.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="118">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#16#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,9 +45,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/filesGroovy.groovy" />
-        <option value="$PROJECT_DIR$/src/io.groovy" />
-        <option value="$PROJECT_DIR$/src/dirs.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/push_pop.groovy" />
+        <option value="$PROJECT_DIR$/src/groovy/producer_consumer.groovy" />
       </list>
     </option>
   </component>
@@ -66,24 +62,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="files-groovy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="files-groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="files-groovy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="files-groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="Threads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Threads" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,35 +106,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Groovy.io">
-    <configuration name="dirs" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="files-groovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/dirs.groovy" />
+  <component name="RunManager" selected="Groovy.producer_consumer">
+    <configuration name="producer_consumer" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Threads" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/groovy/producer_consumer.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/groovy" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="filesGroovy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="files-groovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/filesGroovy.groovy" />
+    <configuration name="push_pop" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Threads" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/groovy/push_pop.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="io" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="files-groovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/io.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/groovy" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,9 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Groovy.io" />
-        <item itemvalue="Groovy.dirs" />
-        <item itemvalue="Groovy.filesGroovy" />
+        <item itemvalue="Groovy.producer_consumer" />
+        <item itemvalue="Groovy.push_pop" />
       </list>
     </recent_temporary>
   </component>
@@ -151,35 +141,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="adca1be3-6331-48bc-947a-ebcd2752a952" name="Default Changelist" comment="" />
-      <created>1562931253620</created>
+      <changelist id="de668393-5c86-49bb-8817-2577825e7e0d" name="Default Changelist" comment="" />
+      <created>1562934117355</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562931253620</updated>
-      <workItem from="1562931257668" duration="2860000" />
+      <updated>1562934117355</updated>
+      <workItem from="1562934121043" duration="2262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2860000" />
+    <option name="totallyTimeSpent" value="2262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="364" width="1849" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958402" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.26235095" />
+      <window_info anchor="bottom" id="Messages" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39019188" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32879046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -197,31 +188,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/filesGroovy.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/push_pop.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="56" selection-start-line="14" selection-end-line="15" />
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/producer_consumer.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dummy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dirs.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="118">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#16#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
