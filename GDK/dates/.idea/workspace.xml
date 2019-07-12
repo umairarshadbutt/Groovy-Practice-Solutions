@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e48dccb-ed2f-4d35-8fcf-1b99e7ba7cbe" name="Default Changelist" comment="" />
+    <list default="true" id="408f2060-1dea-479a-af46-842ac8ddfb4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dates.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Templates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Templates/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,32 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/simple.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dynamic_email.txt">
+        <entry file="file://$PROJECT_DIR$/src/dates.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dynamic_email">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-end-line="5" />
+            <state relative-caret-position="68">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -49,17 +32,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dynamic_email" />
-        <option value="$PROJECT_DIR$/src/simple.groovy" />
-        <option value="$PROJECT_DIR$/src/dynamic_email.txt" />
+        <option value="$PROJECT_DIR$/src/dates.groovy" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="71" />
-    <option name="y" value="483" />
+    <option name="y" value="361" />
     <option name="width" value="1849" />
-    <option name="height" value="597" />
+    <option name="height" value="719" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -71,20 +52,15 @@
         <subPane>
           <expand>
             <path>
-              <item name="Templates" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Templates" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Templates" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dates" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,9 +82,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="simple" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="Templates" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/simple.groovy" />
+    <configuration name="dates" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="dates" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/dates.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src" />
@@ -119,7 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Groovy.simple" />
+        <item itemvalue="Groovy.dates" />
       </list>
     </recent_temporary>
   </component>
@@ -128,20 +104,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e48dccb-ed2f-4d35-8fcf-1b99e7ba7cbe" name="Default Changelist" comment="" />
-      <created>1562939929602</created>
+      <changelist id="408f2060-1dea-479a-af46-842ac8ddfb4c" name="Default Changelist" comment="" />
+      <created>1562942338824</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562939929602</updated>
-      <workItem from="1562939932215" duration="2406000" />
+      <updated>1562942338824</updated>
+      <workItem from="1562942341656" duration="1287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2406000" />
+    <option name="totallyTimeSpent" value="1287000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="483" width="1849" height="597" extended-state="0" />
+    <frame x="71" y="361" width="1849" height="719" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -152,18 +129,18 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24786325" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.59126985" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6576271" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -174,27 +151,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dynamic_email">
+    <entry file="file://$PROJECT_DIR$/src/dates.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simple.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic_email.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="68">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
