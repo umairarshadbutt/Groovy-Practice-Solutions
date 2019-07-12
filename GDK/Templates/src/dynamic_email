@@ -1,0 +1,5 @@
+Dear $firstName $lastName
+
+Probably the quickest way to debug is to turn on logging for HTTPBuilder and Apache HttpClient.
+ An example log4j configuration can be used to output headers and request/response content, as well as
+additional information on what HTTPBuilder is doing with the request and response.
