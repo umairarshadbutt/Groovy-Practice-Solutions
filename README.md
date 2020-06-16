@@ -26,6 +26,18 @@ Apache Groovy Course
 - Collections
 
 
+
+
+## Author
+
+👤 **Umair Arshad**
+
+- Github: [@umairarshadbutt](https://github.com/umairarshadbutt)
+- Twitter: [@its_UmairArshad](https://twitter.com/its_UmairArshad)
+- Linkedin: [umair-arshad-butt](https://www.linkedin.com/in/umair-arshad-butt/)
+
+
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
